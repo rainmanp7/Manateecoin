@@ -1,0 +1,2 @@
+# Manateecoin
+ManateeCoin
